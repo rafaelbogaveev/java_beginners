@@ -1,4 +1,4 @@
-package com.rbogaveev.week2;
+package com.rbogaveev.lesson2;
 
 public class Main {
     public static void main(String[] args) {
