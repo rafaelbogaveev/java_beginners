@@ -80,6 +80,6 @@ public class main {
         System.out.println(array[0]);
         System.out.println(array);
     }
-qqq
+
 
 }
